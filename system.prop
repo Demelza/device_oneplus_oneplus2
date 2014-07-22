@@ -106,6 +106,9 @@ ro.vendor.extension_library=libqti-perfd-client.so
 ro.frp.pst=/dev/block/bootdevice/by-name/config
 drm.service.enabled=true
 
+# System property for cabl
+ro.qualcomm.cabl=2
+
 # Sensors
 camera.disable_zsl_mode=1
 ro.qc.sdk.sensors.gestures=true
