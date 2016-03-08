@@ -28,4 +28,3 @@ PRODUCT_MODEL := oneplus2
 PRODUCT_BRAND := OnePlus
 
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
-
